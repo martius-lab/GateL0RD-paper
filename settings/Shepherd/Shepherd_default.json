@@ -1,0 +1,17 @@
+{
+  "train_len": 10,
+  "latent_dim": 8,
+  "layer_num": 1,
+  "num_layers_internal": 1,
+  "preprocessing_layers": 3,
+  "postprocessing_layers": 1,
+  "warm_up_layers": 3,
+  "warm_up_inputs": 2,
+  "feature_dim": 16,
+  "start_steps": 2,
+  "ss_slope": 0.998,
+  "grad_clip_value": 0.1,
+  "reg_lambda": 0.0001,
+  "dataset_split_rs": 42,
+  "rs": 0
+}

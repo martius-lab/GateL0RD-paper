@@ -1,0 +1,6 @@
+{
+  "__import__": ["settings/RRC/RRC_default.json"],
+  "model_dir": "results/RRC_generalize_ElmanRNN/",
+  "network_name": "ElmanRNN",
+  "lr": 0.005
+}

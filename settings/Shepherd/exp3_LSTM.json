@@ -1,0 +1,6 @@
+{
+  "__import__": ["settings/Shepherd/Shepherd_default.json"],
+  "model_dir": "results/Shepherd_LSTM/",
+  "network_name": "LSTM",
+  "lr": 0.001
+}

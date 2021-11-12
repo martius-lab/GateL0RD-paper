@@ -1,0 +1,1 @@
+For model based planning we use iCEM. The repository for that is available at https://github.com/martius-lab/iCEM. Here we provide the interfaces needed to use the environments we considered for MPC, i.e. Robot Remote Control and Shepherd, to use them with the iCEM implementation.

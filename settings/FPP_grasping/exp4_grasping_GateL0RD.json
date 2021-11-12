@@ -1,0 +1,6 @@
+{
+  "__import__": ["settings/FPP/FPP_grasping_default.json"],
+  "model_dir": "results/FPP_grasping_GateL0RD/",
+  "network_name": "GateL0RD",
+  "lr": 0.005
+}

@@ -1,0 +1,9 @@
+{
+  "__import__": ["settings/BilliardBall/Billiard_Ball_default.json"],
+  "model_dir": "results/Billiard_Ball_SS_GateL0RD/",
+  "network_name": "GateL0RD",
+  "reg_lambda": 0.001,
+  "layer_num": 1,
+  "teacherforcing": false,
+  "lr": 0.0005
+}

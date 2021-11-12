@@ -1,0 +1,19 @@
+{
+  "train_len": 5,
+  "latent_dim": 8,
+  "num_layers_internal": 3,
+  "preprocessing_layers": 3,
+  "postprocessing_layers": 1,
+  "warm_up_layers": 3,
+  "warm_up_inputs": 2,
+  "feature_dim": 16,
+  "start_steps": 2,
+  "ss_slope": 0.998,
+  "grad_clip_value": 0.1,
+  "stochastic_gates": true,
+  "output_gate": true,
+  "gate_type": "ReTanh",
+  "gate_noise_level": 0.1,
+  "dataset_split_rs": 42,
+  "rs": 0
+}

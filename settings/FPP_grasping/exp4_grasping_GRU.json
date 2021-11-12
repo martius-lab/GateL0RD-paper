@@ -1,0 +1,6 @@
+{
+  "__import__": ["settings/FPP/FPP_grasping_default.json"],
+  "model_dir": "results/FPP_grasping_GRU/",
+  "network_name": "GRU",
+  "lr": 0.005
+}

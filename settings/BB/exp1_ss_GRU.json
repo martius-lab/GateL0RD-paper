@@ -1,0 +1,9 @@
+{
+  "__import__": ["settings/BilliardBall/Billiard_Ball_default.json"],
+  "model_dir": "results/Billiard_Ball_SS_GRU/",
+  "network_name": "GRU",
+  "reg_lambda": 0.0,
+  "layer_num": 3,
+  "teacherforcing": false,
+  "lr": 0.0005
+}

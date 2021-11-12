@@ -1,0 +1,6 @@
+{
+  "__import__": ["settings/Shepherd/Shepherd_default.json"],
+  "model_dir": "results/Shepherd_ElmanRNN/",
+  "network_name": "ElmanRNN",
+  "lr": 0.001
+}

@@ -1,0 +1,13 @@
+Robot Remote Control sprite attribution:
+
+- Agent
+	- artists: bluecarrot16, Nemisys
+	- URL: https://opengameart.org/content/lpc-gentleman, https://opengameart.org/content/lpc-brunet-mustache
+
+- Robot
+	- artist: Madjestiko
+	- URL: https://opengameart.org/content/little-robot-alu
+
+- Computer
+	- artist: oparaskos
+	- URL: https://opengameart.org/content/sci-fi-console-screen

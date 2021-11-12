@@ -1,0 +1,4 @@
+Here we took the PPO implementation from: https://github.com/lcswillems/rl-starter-files
+To run GateL0RD in the MiniGrid domain, replace the corresponding classes from the linked repository with our implementations.
+The scripts train_fc.py and evaluate_fc.py act like train.py and evaluate.py from the repository, only they need to be called from an external main as a function.
+visualize.py works like the original script but also supports GateL0RD.

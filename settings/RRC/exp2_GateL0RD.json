@@ -1,0 +1,6 @@
+{
+  "__import__": ["settings/RRC/RRC_default.json"],
+  "model_dir": "results/RRC_generalize_GateL0RD/",
+  "network_name": "GateL0RD",
+  "lr": 0.005
+}

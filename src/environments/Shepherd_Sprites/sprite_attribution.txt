@@ -1,0 +1,17 @@
+Shepherd sprite attribution:
+
+- Sheep
+	- artist: whtdragom
+	- URL: https://forums.rpgmakerweb.com/index.php?threads/whtdragons-animals-and-running-horses-now-with-more-dragons.53552/
+
+- Gate, walls & grass
+	- artists: Hyptosis, Zabin, Daniel Cook
+	- URL: https://opengameart.org/content/castle-tiles-for-rpgs
+
+- Lever
+	- artist: aweryn
+	- URL: https://vxresource.wordpress.com/
+	
+- Cage
+	- artist: ETTiNGRiNDER
+	- URL: https://opengameart.org/content/misc-dark-fantasy-scenery-sprites
